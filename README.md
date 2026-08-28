@@ -1,2 +1,11 @@
-# Online-Course-Recommendation-System
-An intelligent online course recommendation system using content-based and collaborative filtering techniques with Python and Streamlit.
+# Reports
+
+This folder contains supporting project documentation and presentation material.
+
+## Contents
+
+- Project presentation
+- Model documentation
+- Deployment documentation
+
+These documents provide additional details about the project methodology, recommendation models, results, and deployment.
